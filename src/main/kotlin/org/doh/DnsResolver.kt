@@ -5,7 +5,6 @@ import okhttp3.Request
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
-import okhttp3.HttpUrl
 import okhttp3.HttpUrl.Companion.toHttpUrlOrNull
 import org.doh.Constants.Companion.ACCEPT
 import org.doh.Constants.Companion.APPLICATION_DNS_JSON
